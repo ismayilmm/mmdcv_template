@@ -51,13 +51,14 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "DFV OPS",
-      title: "DevOps Team Lead",
-      start: "July 2022",
-      end: "Present",
-      description:
-        "• Led a team of DevOps engineers in implementing CI/CD pipelines and automation\n• Implemented monitoring and logging solutions to improve system performance\n• Conducted team performance reviews and mentoring\n• Transitioned from VPS to OpenShift\n• Trained employees on OpenShift and Kubernetes\n• Wrote automation scripts",
-    },
+    company: "DFV OPS",
+    title: "DevOps Team Lead",
+    start: "July 2022",
+    end: "Present",
+    description:
+      "• Led a team of DevOps engineers in implementing CI/CD pipelines and automation\n• Implemented monitoring and logging solutions to improve system performance\n• Conducted team performance reviews and mentoring\n• Transitioned from VPS to OpenShift\n• Trained employees on OpenShift and Kubernetes\n• Wrote automation scripts",
+    link: "https://dfvops.com"  // Add this
+  },
     {
       company: "Sberbank",
       title: "DevOps Engineer",
